@@ -1,12 +1,17 @@
 <div align="center">
 
-  <img src="https://res.cloudinary.com/hicm/image/upload/v1668738260/Workzone_-_2022-11-18_03.23.10_jh25mv.png" alt="logo" width="200" height="auto" />
+  <img src="https://res.cloudinary.com/hicm/image/upload/v1668738575/logo-work_c3asfi.png" alt="logo" width="200" height="auto" />
   <h1>Workzone</h1>
   
   <p>
     The Best Project Management Tool
   </p>
   
+  <p>
+  <a href="#">
+    <img src="https://res.cloudinary.com/hicm/image/upload/v1668738260/Workzone_-_2022-11-18_03.23.10_jh25mv.png" alt="contributors" />
+  </a>
+
   <!-- About the Project -->
 
 ## :star2: About the Project
@@ -30,7 +35,7 @@
 <details>
   <summary>👉 Frontend Repo</summary>
      <ul>
-      <a href="https://github.com/hicmtrex/stagryts-frontend">stagryts-frontend</a>
+      <a href="#">Workzone-Client</a>
      </ul>
   
 </details>
